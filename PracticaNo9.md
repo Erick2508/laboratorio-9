@@ -44,7 +44,11 @@ Familiarizarse con el uso del generador de señales.
 
 5.1.- Construya en el protoboard cada uno de los circuitos mostrados en el diagrama 3.1.
 
+![circuito](https://user-images.githubusercontent.com/75336529/113635431-3d8d4180-9636-11eb-9101-14f49030c1df.png)
+
 5.2.-Muestre en el osciloscopio las ondas de entrada y salida simultaneamente.
+
+![onda ](https://user-images.githubusercontent.com/75336529/113635428-3bc37e00-9636-11eb-9b57-aa3fa146ea45.png)
 
 5.3.-Determine y analice la realcion entre las señales de entrada y salida de cada uno de los circuitos indicados en el diagrama 3.1
 
