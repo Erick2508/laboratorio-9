@@ -22,6 +22,11 @@ Familiarizarse con el uso del generador de señales.
 
 2.-**MARCO TEORICO**
 
+![mapa 2](https://user-images.githubusercontent.com/75336529/113716041-c72d2580-96af-11eb-8861-7af8b2ca0310.png)
+
+![mapa1](https://user-images.githubusercontent.com/75336529/113716033-c5636200-96af-11eb-9121-8bdba7abaa1b.png)
+
+
 3.-**DIAGRAMAS**
 
 ![diagramas](https://user-images.githubusercontent.com/75336529/113633712-08332480-9633-11eb-9c72-544b639dae0e.png)
@@ -56,6 +61,8 @@ Familiarizarse con el uso del generador de señales.
 
 6.1.-Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación.
 
+La onda de salida es un pocco mas pequeña que la de entrada por lo que se pude decir que consume un poco del voltaje suministrado a dicho elemento.
+
 7.-**PREGUNTAS**
 
 7.1.-Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
@@ -70,7 +77,13 @@ No hay corriente entrando o saliendo de las patas inversora y no inversora.
 
 7.2.-Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
 
+Amplificador operacional LM324 tiene 7 conectores de los cuales los pines dos van referidos a tierra.
+
 7.3.-Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
+
+El LM386 es un amplificador de potencia, diseñado para el empleo en usos de consumo de voltaje bajos. La ganancia interna es puesta a 20 para mantener la parte externa en cuenta baja, pero la adición de una resistencia externa y un condensador entre los pines 1 y 8 aumentarán la ganancia a cualquier valor entre 20 y 200.
+
+Las entradas son referidas a tierra, mientras la salida influye automáticamente a la mitad de tensión del suministro. El drenador de potencia es de sólo 24 miliwatios aplicando un suministro de 6 voltios, esto hace ideal el LM386 para la operación en baterías.
 
 8.-**CONCLUSIONES**
 
