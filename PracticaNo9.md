@@ -61,7 +61,7 @@ Familiarizarse con el uso del generador de señales.
 
 6.1.-Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación.
 
-La onda de salida es un pocco mas pequeña que la de entrada por lo que se pude decir que consume un poco del voltaje suministrado a dicho elemento.
+La onda de salida es mas grande al momento de ponerle un generador de señales como entrada.
 
 7.-**PREGUNTAS**
 
@@ -87,7 +87,7 @@ Las entradas son referidas a tierra, mientras la salida influye automáticamente
 
 8.-**CONCLUSIONES**
 
-Un amplificador operacional consume un poco del voltaje para realizar sus funciones.
+Un amplificador operacional amplifica la señal de voltaje al momento de salida.
 
 Si se le pone un generador de señales el amplificador operacional tiende a hacer que lo entregado se incremente y por ende tenga mas voltaje al momento de usarlo.
 
