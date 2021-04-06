@@ -60,13 +60,31 @@ Familiarizarse con el uso del generador de señales.
 
 7.1.-Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
 
+Tiene dos entradas y una salida con alimentacion positiva y negativa
+
+La impedancia entre las entradas inversora y no inversora es infinita, por lo que no hay corriente de entrada.
+
+La diferencia de potencial entre las terminales inversora y no inversora es, o debe ser nula.
+
+No hay corriente entrando o saliendo de las patas inversora y no inversora.
+
 7.2.-Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
 
 7.3.-Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
 8.-**CONCLUSIONES**
 
+Un amplificador operacional consume un poco del voltaje para realizar sus funciones.
+
+Si se le pone un generador de señales el amplificador operacional tiende a hacer que lo entregado se incremente y por ende tenga mas voltaje al momento de usarlo.
+
 9.-**BIBLIOGRAFIA**
+
+"MODOS DE OPERACIÓN Y APLICACIONES", Uv.es, 2021. [Online]. Available: https://www.uv.es/~marinjl/electro/aoaplicaciones.htm. [Accessed: 06- Apr- 2021].
+
+"¿Qué es un amplificador operacional? - 330ohms", 330ohms, 2021. [Online]. Available: https://blog.330ohms.com/2020/07/27/que-es-un-amplificador-operacional/. [Accessed: 06- Apr- 2021].
+
+"El Amplificador Operacional – Electrónica Práctica Aplicada", Diarioelectronicohoy.com, 2021. [Online]. Available: https://www.diarioelectronicohoy.com/blog/el-amplificador-operacional. [Accessed: 06- Apr- 2021].
 
 10.-**ANEXOS**
 
